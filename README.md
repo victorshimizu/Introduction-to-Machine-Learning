@@ -10,11 +10,11 @@ This course content derives from 6.036 taught during the Spring 2019 semester on
 
 In this version of Introduction to Machine Learning on Open Learning Library:
 
-No certificates can be earned on Open Learning Library
-Runs as ‘self-paced’ and all dates mentioned within are irrelevant
-Some assessment material may have been removed and grading adjusted accordingly
-Any discussion forums have been removed
-Some course content may have been removed  
+No certificates can be earned on Open Learning Library\
+Runs as ‘self-paced’ and all dates mentioned within are irrelevant\
+Some assessment material may have been removed and grading adjusted accordingly\
+Any discussion forums have been removed\
+Some course content may have been removed
 
 *Here I'm registering my progress throughout the course
  
